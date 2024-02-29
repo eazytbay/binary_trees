@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_trees_ancestor - A function that locates the least common 
+ * binary_trees_ancestor - A function that locates the least common
  * ancestor of two nodes
  * @first: pointer to the first node
  * @second: pointer to the second node
@@ -27,4 +27,3 @@ second = ephem;
 }
 return (NULL);
 }
-
